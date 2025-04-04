@@ -7,7 +7,11 @@
 An AI agent that navigates a simulated STEM education environment to optimize student engagement using Deep Q-Networks (DQN) and Policy Gradient methods.
 
 ### ==> Environment Visualization 
-![dqn_agent](https://github.com/user-attachments/assets/01615a66-5071-4beb-b43d-e262cbd68515)
+<img src="https://github.com/user-attachments/assets/01615a66-5071-4beb-b43d-e262cbd68515" 
+     alt="DQN Agent" 
+     width="400" 
+     style="display: block; margin: 0 auto"/>
+     
 
 ### ==> Visual Elements:
 
